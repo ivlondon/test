@@ -1,0 +1,11 @@
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git init
+git status
+git add .
+git commit -m ‘message’
+git log
+git remote add origin github repo url
+git remote -v
+git push -u origin main
+git push -f origin main
